@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on Git Hub
-- 📫 How to reach me throug whtsapp
+- 📫 How to reach me through whtsapp
 -    My whtsapp No. is +923127408770
 
 <!---
